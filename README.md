@@ -4,7 +4,7 @@ The goal of this porject is to create a Convolutional Neural Network that will e
 ___
 
 # Prerequisites
-- Install Theanos  
+- Install Theano  
 `pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git`
 
 - Install TensorFlow  
